@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pyOpenSSL
+python-dotenv
+jinja2
+pydantic
+pytest
+pytest-asyncio
+aiohttp
+validators
